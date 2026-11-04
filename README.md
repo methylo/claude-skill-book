@@ -1,6 +1,6 @@
 # 〈클로드 스킬 가이드 with 코워크, 옵시디언, 헤르메스 에이전트, LLM 위키〉 실습 스킬 저장소
 
-〈클로드 스킬과 코워크〉(홍순성 지음, 한빛미디어)에서 다룬 클로드 스킬 40개를 모은 저장소입니다. 책을 따라 하며 스킬을 설치하고, 열어 보고, 내 작업에 맞게 고쳐 쓸 수 있습니다.
+〈클로드 스킬 가이드 with 코워크, 옵시디언, 헤르메스 에이전트, LLM 위키〉(홍순성 지음, 한빛미디어)에서 다룬 클로드 스킬 40개를 모은 저장소입니다. 책을 따라 하며 스킬을 설치하고, 열어 보고, 내 작업에 맞게 고쳐 쓸 수 있습니다.
 
 - 책 구매: [한빛미디어](https://www.hanbit.co.kr/books/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%8A%A4%ED%82%AC-%EA%B0%80%EC%9D%B4%EB%93%9C-with-%EC%BD%94%EC%9B%8C%ED%81%AC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%97%A4%EB%A5%B4%EB%A9%94%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-llm-%EC%9C%84%ED%82%A4?code=B4151451531) , [예스24](https://www.yes24.com/product/goods/199636519) , [교보문고](https://product.kyobobook.co.kr/detail/S000221817055) , [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=405609923)
 - 저자: 홍순성(홍작가) · HONGS LAB · https://sshong.com
