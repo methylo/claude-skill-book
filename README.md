@@ -1,11 +1,50 @@
 # 〈클로드 스킬 가이드 with 코워크, 옵시디언, 헤르메스 에이전트, LLM 위키〉 실습 스킬 저장소
 
-〈클로드 스킬 가이드 with 코워크, 옵시디언, 헤르메스 에이전트, LLM 위키〉(홍순성 지음, 한빛미디어)에서 다룬 클로드 스킬 40개를 모은 저장소입니다. 책을 따라 하며 스킬을 설치하고, 열어 보고, 내 작업에 맞게 고쳐 쓸 수 있습니다.
+<table>
+<tr>
+<td width="220" valign="top">
+<a href="https://www.yes24.com/product/goods/199636519"><img src="./assets/cover.jpg" width="200" alt="클로드 스킬 가이드 with 코워크, 옵시디언, 헤르메스 에이전트, LLM 위키 표지"></a>
+</td>
+<td valign="top">
 
-- 책 구매: [한빛미디어](https://www.hanbit.co.kr/books/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%8A%A4%ED%82%AC-%EA%B0%80%EC%9D%B4%EB%93%9C-with-%EC%BD%94%EC%9B%8C%ED%81%AC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%97%A4%EB%A5%B4%EB%A9%94%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-llm-%EC%9C%84%ED%82%A4?code=B4151451531) , [예스24](https://www.yes24.com/product/goods/199636519) , [교보문고](https://product.kyobobook.co.kr/detail/S000221817055) , [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=405609923)
+**클로드 스킬 가이드**<br>
+with 코워크, 옵시디언, 헤르메스 에이전트, LLM 위키
+
 - 저자: 홍순성(홍작가) · HONGS LAB · https://sshong.com
+- 출판사: 한빛미디어
+- 발행일: 2026년 11월 5일
+- 쪽수: 328쪽
+- ISBN: 9791175790995
+- 정가: 26,000원
+- 구매: [한빛미디어](https://www.hanbit.co.kr/books/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%8A%A4%ED%82%AC-%EA%B0%80%EC%9D%B4%EB%93%9C-with-%EC%BD%94%EC%9B%8C%ED%81%AC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%97%A4%EB%A5%B4%EB%A9%94%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-llm-%EC%9C%84%ED%82%A4?code=B4151451531) · [예스24](https://www.yes24.com/product/goods/199636519) · [교보문고](https://product.kyobobook.co.kr/detail/S000221817055) · [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=405609923)
+
+</td>
+</tr>
+</table>
+
+매번 프롬프트를 다시 쓰는 대신, 일하는 방식을 스킬 파일 하나에 적어 두고 클로드가 그 파일을 읽고 일하게 만드는 방법을 다룬 책입니다. 스킬을 처음 등록하는 단계에서 시작해 직접 만들고 관리하는 법, 여러 스킬을 이어 책·강의 자료를 만드는 법, 옵시디언·LLM 위키·헤르메스 에이전트와 연결해 다음 작업까지 잇는 법으로 나아갑니다.
+
+이 저장소에는 책에서 다룬 클로드 스킬 40개가 있습니다. 책을 따라 하며 스킬을 설치하고, 열어 보고, 내 작업에 맞게 고쳐 쓸 수 있습니다.
+
 - 기준 버전: v1.0 (초판 기준)
 - 독자 단톡방: [AI 책쓰기: 집필의 기술](https://open.kakao.com/o/ghqbvP0h) (카카오톡 오픈채팅)
+
+<details>
+<summary><b>책 구성 (8개 Part, 23개 Chapter)</b></summary>
+
+| Part | 제목 | Chapter |
+|---|---|---|
+| — | 프롬프트 말고 스킬 | 00 |
+| 01 | 스킬과 첫 만남 | 01~03 |
+| 02 | 스킬 들여다보기 | 04~06 |
+| 03 | 내 스킬 만들고 관리하기 | 07~09 |
+| 04 | 스킬 하나로 결과물 하나 만들기 | 10~13 |
+| 05 | 스킬 여러 개를 이어 결과물 완성하기 | 14~15 |
+| 06 | 클로드와 내 컴퓨터 연결하기 | 16~17 |
+| 07 | 옵시디언과 클로드로 블로그부터 책까지 쓰기 | 18~20 |
+| 08 | LLM 위키와 헤르메스 에이전트로 다음 작업 이어 가기 | 21~23 |
+
+</details>
 
 ## 이 저장소에 있는 것
 
